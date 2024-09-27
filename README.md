@@ -1,5 +1,5 @@
-# Repositório de Laboratórios do Bootcamp Microsoft Azure DIO
-Aulas realizadas no peridodo de setembro á outubro de 2024
+# Repositório de Laboratórios do Bootcamp Microsoft Azure DIO <img src="https://assets.dio.me/bbJOCwj9F9ERdxC8F1x1Lm_XFkcPWwCHdshI-njcbUA/f:webp/h:120/q:80/L3RyYWNrcy83M2IyZGU1NS1kNjdhLTRkY2MtOGJlYS00YTE2ZDBjNGQzMGMucG5n">
+Aulas realizadas no peridodo de setembro á outubro de 2024 
 
 
 | AULAS  | Laboratório | Link 
